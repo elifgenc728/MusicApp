@@ -9,6 +9,6 @@ export default StyleSheet.create({
     backgroundColor: '#eceff1'
   },
   placeholder_text: {
-    margin: 5
+    margin: 6
   }
 });
