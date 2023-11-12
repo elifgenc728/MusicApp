@@ -1,6 +1,6 @@
 # Music App - React Native
-- The purpose of this application is to provide a place where people can share their own recipes. In this way, since each shared recipe is displayed in a common area, other users can also have an idea about the recipes.
-- I used Firebase in the application.
+- An application that allows you to search for the desired song from a music list.
+- Thanks to the filtering feature, you can find the desired song just by typing the song name or just the artist name.
 
 ### Skills
 
