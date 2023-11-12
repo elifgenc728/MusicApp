@@ -64,4 +64,3 @@ yarn-error.log
 
 # testing
 /coverage
-.java linguist-language=JavaScript
